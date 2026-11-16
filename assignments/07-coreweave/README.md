@@ -33,6 +33,12 @@ The forecast estimates funding shortfalls and coverage. Default rates for the ex
 
 ## Repository scope
 
-This release includes the standalone CoreWeave model and its documentation. Third-party source files and course materials are excluded. No open-source license has been selected.
+This release includes the research report, the Excel workbook, and the standalone Python model. The report omits assignment prompts and submission logs. No open-source license has been selected.
+
+## Project files
+
+[Assignment report](report.docx) · [Model workbook](workbook.xlsx)
+
+The public workbook retains the regression outputs and model formulas. Historical price observations are excluded.
 
 [Course portfolio](../../README.md)
