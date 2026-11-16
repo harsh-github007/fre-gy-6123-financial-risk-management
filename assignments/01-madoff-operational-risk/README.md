@@ -14,4 +14,8 @@ Separately track the people reporting performance, the parties holding client mo
 
 Prioritize independent custody and trade confirmation, auditor due diligence, and reconciliation between broker statements and reported positions. Review unusually smooth returns against the market behavior of the stated strategy.
 
+## Project files
+
+[Assignment report](report.pdf)
+
 [Course portfolio](../../README.md)
