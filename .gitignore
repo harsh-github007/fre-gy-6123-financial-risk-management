@@ -1,0 +1,24 @@
+# Python and local environment
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+
+# Submission materials, private notes, and source data
+/private/
+/data/
+/submission/
+/raw/
+*.zip
+*.pdf
+*.docx
+*.xlsx
+*.xls*
+*.csv
+*.tsv
+*.log
+*transcript*
+*claude*
+*Claude*
